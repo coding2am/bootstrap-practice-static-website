@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@400;500&display=swap');
+.nav-data{
+    background-image: url('../images/pattern.png');
+}
+.hrDesign{
+    border-color: #1d2124;
+    opacity: 0.5;
+}
+.frame{
+    background-image: url('../images/pattern_frame.png');
+}
+.frame-2{
+    background-image: url('../images/leaves.png');
+}
+.mainTitle{
+    font-family: 'Lemonada', cursive;
+}
+.mainPara{
+    font-family: 'Lemonada', cursive;
+    opacity: 0.8;
+    font-style: italic;
+}
+nav .dropdown-menu{
+    background-image: url('../images/pattern.png');
+}
+nav .dropdown-menu a:hover{
+   background: whitesmoke!important;
+    color: black!important;
+}
+.english{
+    font-family: 'Oswald', sans-serif;
+}
+.dropdown-menu {
+    right: 0 !important;
+    left: auto !important;
+}
+.bshadow{
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+}
